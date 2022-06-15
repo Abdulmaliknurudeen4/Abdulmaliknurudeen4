@@ -1,6 +1,6 @@
 ![Abdulmalik](https://user-images.githubusercontent.com/25651951/173711885-42343d79-022c-4971-b8ed-b06f00990823.gif)
 <h3 align="center">
-Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Caleb</a> 👋
+Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Abdulmalik</a> 👋
 </h3>
 
 <h2 align="center">
@@ -12,9 +12,9 @@ I spend my spare time reading about intresting topics such as History, Statistic
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/calebnyong/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Abdulmalik | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/abdulmalik-nurudeen-688aa5123/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Abdulmalik | LinkedIn" width="21px"/></a>
 
-<a href="https://medium.com/@calebnyong02"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Abdulmalik | Medium" width="21px"/></a>
+<a href="https://medium.com/@abdulmaliknurudeen4"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Abdulmalik | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
