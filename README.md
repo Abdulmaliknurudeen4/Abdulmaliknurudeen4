@@ -59,11 +59,11 @@ I spend my spare time reading about intresting topics such as History, Statistic
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=calebapril)](https://github.com/calebapril)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abdulmaliknurudeen4)](https://github.com/Abdulmaliknurudeen4)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebapril&layout=compact)](https://github.com/calebapril)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmaliknurudeen4&layout=compact)](https://github.com/Abdulmaliknurudeen4)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=calebapril.calebapril)](https://github.com/calebapril)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Abdulmaliknurudeen4.Abdulmaliknurudeen4)](https://github.com/Abdulmaliknurudeen4)
 <!--
 **calebapril/calebapril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
