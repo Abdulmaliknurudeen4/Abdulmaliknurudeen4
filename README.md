@@ -43,7 +43,7 @@ I spend my spare time reading about intresting topics such as History, Statistic
 ![](https://img.shields.io/badge/Database-SQLite-blue?style=plastic&logo=SQLite)
 ![](https://img.shields.io/badge/Database-SQLite-blue?style=plastic&logo=MySQL)
 ![](https://img.shields.io/badge/Database-SQLite-blue?style=plastic&logo=PostgreSQL)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Java&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Sass-%23CC6699?style=flat&logo=Sass&color=CC6699)
 
