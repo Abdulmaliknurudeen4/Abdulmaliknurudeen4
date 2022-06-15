@@ -5,16 +5,17 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Caleb</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Frontend Web Developer 💻, Content Creator , UX/UI Designer 👩‍💻 !
+I'm a FullStack Developer 💻, Software Engineer , Statistics and JasperReport Enthuisiast 👩‍💻 , and a BookWorm !
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of developing web application and software application. I Love to create application from scratch and work with databases and developing REST APIs with Spring Boot and Java.
+I spend my spare time reading about intresting topics such as History, Statistics, Physics , Chemistry, Motivation and Finance and Some times little bit of Novel.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/calebnyong/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caleb Nyong | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/calebnyong/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Abdulmalik | LinkedIn" width="21px"/></a>
 
-<a href="https://medium.com/@calebnyong02"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Caleb Nyong | Medium" width="21px"/></a>
+<a href="https://medium.com/@calebnyong02"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Abdulmalik | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
