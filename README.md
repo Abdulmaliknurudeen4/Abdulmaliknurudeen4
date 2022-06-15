@@ -12,9 +12,12 @@ I spend my spare time reading about intresting topics such as History, Statistic
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/abdulmalik-nurudeen-688aa5123/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Abdulmalik | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/abdulmalik-nurudeen-688aa5123/"><img align="left" src="https://github.com/Abdulmaliknurudeen4/Abdulmaliknurudeen4/blob/main/images/icons8_LinkedIn.svg" alt="Abdulmalik | LinkedIn" width="21px"/></a>
 
 <a href="https://medium.com/@abdulmaliknurudeen4"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Abdulmalik | Medium" width="21px"/></a>
+<a href="https://twitter.com/VirtualCoder20"><img align="left" src="https://github.com/Abdulmaliknurudeen4/Abdulmaliknurudeen4/blob/main/images/icons8_Twitter.svg" alt="Abdulmalik | Twitter" width="21px"/></a>
+<a href="mailto:abdulmaliknurudeen4@gmail.com">
+<img align="left" src="https://github.com/Abdulmaliknurudeen4/Abdulmaliknurudeen4/blob/main/images/icons8_Gmail.svg" alt="Abdulmalik | Gmail" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
