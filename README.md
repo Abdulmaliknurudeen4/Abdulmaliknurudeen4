@@ -51,10 +51,13 @@ I spend my spare time reading about intresting topics such as History, Statistic
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=AdobeXD&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Maven-green?style=flat&logo=ApacheMaven&color=430098)
+![](https://img.shields.io/badge/Tools-Postman-orange?style=flat&logo=Postman&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Docker-blue?style=flat&logo=Docker&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Kubernetes-blue?style=flat&logo=Kubernetes&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-IntelliJ-red?style=flat&logo=IntelliJIDEA&color=181717)
 
 ## 📝 Latest Blog Posts
 
