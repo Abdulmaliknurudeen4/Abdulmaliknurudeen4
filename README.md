@@ -41,15 +41,15 @@ I spend my spare time reading about intresting topics such as History, Statistic
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Database-SQLite-blue?style=plastic&logo=SQLite)
-![](https://img.shields.io/badge/Database-SQLite-blue?style=plastic&logo=MySQL&color=FFFFFF)
-![](https://img.shields.io/badge/Database-SQLite-blue?style=plastic&logo=PostgreSQ&color=FFFFFF)
+![](https://img.shields.io/badge/Database-SQLite-blue?style=plastic&logo=MySQL)
+![](https://img.shields.io/badge/Database-SQLite-blue?style=plastic&logo=PostgreSQL)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 
 </br>
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe XD&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
