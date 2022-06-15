@@ -23,19 +23,14 @@ I spend my spare time reading about intresting topics such as History, Statistic
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Movies Website (Html, Css, Javascript)
-- Mobile + Desktop Amazon Clone (Working on it soon...)
-- My next blog & Portfolio
-- My CSS skill
-- My Javascript skill
+- Cleaning Up my Old Projects to Make them Public on GitHub
+- My Programming Skills
 
 ## 🌱 I'm currently learning
 
-- 📱 C, Python and other programming language
-- React js
-- Sass (Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself.)
-- Node js 
+- 📱 Amazon Web Service
+- Working with Kubernetes and CI/CD Pipelines.
+- Brushing Up More of My Programming Skills
 
 
 ## 💼 Technical Skills
@@ -44,6 +39,10 @@ I spend my spare time reading about intresting topics such as History, Statistic
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Database-SQLite-blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 
 </br>
