@@ -49,7 +49,7 @@ I spend my spare time reading about intresting topics such as History, Statistic
 
 </br>
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Adobe XD&color=F24E1E)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=AdobeXD&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
