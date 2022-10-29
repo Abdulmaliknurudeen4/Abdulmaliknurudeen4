@@ -4,11 +4,11 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Abdulmalik</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a FullStack Developer 💻, Software Engineer , Statistics and JasperReport Enthuisiast 👩‍💻 , and a BookWorm !
+I'm a FullStack Developer 💻, Software Engineer ,DevOps Engineer, Statistics and JasperReport Enthuisiast 👩‍💻 , and a BookWorm !
 </h2> 
 
-I love the entire process of developing web application and software application. I Love to create application from scratch and work with databases and developing REST APIs with Spring Boot and Java.
-I spend my spare time reading about intresting topics such as History, Statistics, Physics , Chemistry, Motivation and Finance and Some times little bit of Novel.
+I love the entire process of developing web application and software application. I Love to create application from scratch and work with databases and developing REST APIs with Spring Boot and Java, DevOps Tools and Exploring Tools.
+I spend my spare time reading about intresting topics such as History, Tech and Documentation, Statistics, Physics , Chemistry, Motivation and Finance and Some times little bit of Novel.
 
 ### 🤝 Connect with me:
 
@@ -25,12 +25,11 @@ I spend my spare time reading about intresting topics such as History, Statistic
 
 - Cleaning Up my Old Projects to Make them Public on GitHub
 - My Programming Skills
+- Finding Internships to Further my Experience.
 
 ## 🌱 I'm currently learning
 
 - 📱 Amazon Web Service
-- Working with Kubernetes and CI/CD Pipelines.
-- Brushing Up More of My Programming Skills
 
 
 ## 💼 Technical Skills
@@ -65,6 +64,11 @@ I spend my spare time reading about intresting topics such as History, Statistic
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
+![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=)
+![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=)
+![Apache JMeter](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+JMeter&color=D22128&logo=Apache+JMeter&logoColor=FFFFFF&label=)
+![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=D24939&logo=Jenkins&logoColor=FFFFFF&label=)
+![Jenkins X](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins+X&color=222222&logo=Jenkins+X&logoColor=73C3D5&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)
